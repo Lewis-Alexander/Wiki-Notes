@@ -1,8 +1,10 @@
 ---
-title: <%tp.file.title%>
-draft: false
+title: <%tp.system.prompt("Title")%>
+tags: 
 publish: "false"
-tags:
+created: <% tp.file.creation_date("dddd, MMMM Do YYYY") %>
+modified: <% tp.file.last_modified_date("dddd, MMMM Do YYYY") %>
 ---
-# Page
- 
+<%*
+	tp.file.rename(tp.frontmatter.title)
+%>
