@@ -1,7 +1,7 @@
 ---
 title: Untitled
 draft: false
-publish: "false"
+publish: "true"
 tags:
 ---
 # welcome
