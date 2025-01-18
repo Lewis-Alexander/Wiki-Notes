@@ -1,11 +1,14 @@
----
-title: <%tp.system.prompt("Title")%>
-tags: 
-publish: "false"
-created: <% tp.file.creation_date("dddd, MMMM Do YYYY") %>
-modified: <% tp.file.last_modified_date("dddd, MMMM Do YYYY") %>
-draft: false
----
 <%*
-	tp.file.rename(tp.frontmatter.title)
-%>
+const title = tp.file.title;
+let splitTitle;
+if (title.startsWith("Untitled")) { 
+    newTitle = await tp.system.prompt("Enter note title");
+    await tp.file.rename(newTitle);
+}
+-%>
+---
+title: <% newTitle %>
+draft: false
+publish: false
+modified: <%tp.file.last_modified_date("YYYY-MM-DD")%> 
+---
