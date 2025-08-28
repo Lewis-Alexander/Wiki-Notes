@@ -1,0 +1,1 @@
+Scout for [[Kholin]] caravan easily distracted not very good at job, mysteriously disappeared during bandit attack.

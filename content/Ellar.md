@@ -1,0 +1,1 @@
+Sergeant of the [[kholin]] caravan overbearing and demanding, had something stolen from him during the bandit attack. does not particularly like [[Cealista Thornevale]] neutral to likes rest of party

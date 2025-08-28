@@ -1,0 +1,1 @@
+shin monk, travelled with a group who were assasinated by bandits with a specific glyph on it.

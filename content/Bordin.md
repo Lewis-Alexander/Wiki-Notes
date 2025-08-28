@@ -1,0 +1,1 @@
+True leader of [[Kholin]] caravan, does not like [[Cealista Thornevale]], does not believe the [[honorblade]] was stolen. 
