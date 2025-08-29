@@ -1,1 +1,0 @@
-Guard for the sergeants carriage not the brightest, wants to buy [[David FutureSeeingStabbyGuy]] from [[Cealista Thornevale]], fell unconcious after the bandit attack after losing an arm.

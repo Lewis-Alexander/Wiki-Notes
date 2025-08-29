@@ -1,1 +1,0 @@
-influential merchant who's caravan was saved by the party before the [[highstorm]] holds the party in high regard. 

@@ -9,6 +9,6 @@ if (title.startsWith("Untitled")) {
 ---
 title: <% newTitle %>
 draft: false
-publish: false
+publish: true
 modified: <%tp.file.last_modified_date("YYYY-MM-DD")%> 
 ---
